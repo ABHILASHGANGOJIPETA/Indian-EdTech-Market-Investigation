@@ -45,9 +45,6 @@ Using web scraping, AI-assisted sentiment analysis, and Power BI visualisation, 
 ### 1. Data Collection
 Scraped and collected **150 real data points** from 7 platforms using:
 - **Python (BeautifulSoup)** — News articles from Economic Times, Inc42, LiveMint, Hindustan Times
-- **Apify** — Reddit threads and Google Reviews
-- **Octoparse** — Quora answers and YouTube comment sections
-- **Manual capture** — Twitter/X posts and LinkedIn posts
 
 ### 2. AI-Assisted Processing
 Used **Claude AI and ChatGPT ** to:
