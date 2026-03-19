@@ -14,7 +14,7 @@ Using web scraping, AI-assisted sentiment analysis, and Power BI visualisation, 
 
 ## 📊 Dashboard Preview
 
-![EdTech Market Performance Dashboard](dashboard.png)
+![EdTech Market Performance Dashboard](Investigation_of_the_Indian_EdTech_Market/Dashboard.png)
 
 > **Live KPIs from the dashboard:**
 > | Metric | Value |
