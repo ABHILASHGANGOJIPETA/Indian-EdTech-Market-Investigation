@@ -50,7 +50,7 @@ Scraped and collected **150 real data points** from 7 platforms using:
 - **Manual capture** — Twitter/X posts and LinkedIn posts
 
 ### 2. AI-Assisted Processing
-Used **Claude AI, ChatGPT, and Gemini** to:
+Used **Claude AI and ChatGPT ** to:
 - Classify each post as Negative / Positive / Neutral based on full context
 - Cluster posts into 10 categories (Scam/Fraud, Placement Fraud, Misleading Ads, etc.)
 - Extract top keywords and recurring themes from the dataset
