@@ -115,8 +115,6 @@ A **25-page structured research report** covering:
 | Tool | Category | Purpose |
 |------|----------|---------|
 | Python (BeautifulSoup) | Web Scraping | News article extraction |
-| Apify | Web Scraping | Reddit & Google Reviews |
-| Octoparse | Web Scraping | Quora & YouTube comments |
 | Claude AI (Anthropic) | Generative AI | Sentiment classification, clustering |
 | ChatGPT | Generative AI | Cross-validation of sentiment |
 | Gemini | Generative AI | Trend extraction from news corpus |
@@ -152,7 +150,7 @@ Step 2  →  Source Identification
            Selected 7 platforms where real students discuss EdTech experiences
 
 Step 3  →  Data Collection & Web Scraping
-           Python + Apify + Octoparse → 25 verified original records
+           Python  → 25 verified original records
 
 Step 4  →  AI-Assisted Classification
            Claude AI classified sentiment and categories across all records
@@ -189,14 +187,6 @@ Step 7  →  Research Report
 **Gangojipeta Abhilash**  
 Data Analyst 
 📍 Hyderabad, India
-
----
-
-## 📌 Resume Line for This Project
-
-> **Indian EdTech Market — Data-Driven Investigation & Analysis** *(March 2025)*  
-> Conducted a full-scale market investigation by scraping 150+ records from 7 social platforms using Python, Apify & Octoparse; applied AI-assisted sentiment classification (Claude, ChatGPT); built an interactive Power BI dashboard with 10 DAX measures exposing 56% negative sentiment and 40 fraud-flagged posts; authored a 25-page LaTeX research report documenting 5 verified scam cases including BYJU'S ED raids and RTI-proven salary exaggerations.  
-> **Tools:** Python · BeautifulSoup · Apify · Octoparse · Power BI · DAX · pandas · Excel · Claude AI · LaTeX
 
 ---
 
