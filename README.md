@@ -34,7 +34,7 @@ Using web scraping, AI-assisted sentiment analysis, and Power BI visualisation, 
 ├── 📄 README.md                        ← You are here
 ├── 📊 dashboard.png                    ← Power BI dashboard screenshot
 ├── 📝 IndianEdTech_Report.pdf          ← Full 9-section research report
-├── 📋 IndianEdTech_MASTER.xlsx         ← Master dataset (150 rows × 17 columns)
+├── 📋 Data_set.xlsx         ← Master dataset (150 rows × 17 columns)
 └── 📄 IndianEdTech_Report.tex          ← LaTeX source of the report
 ```
 
